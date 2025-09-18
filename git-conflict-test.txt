@@ -1,5 +1,3 @@
 Hi mate!!
 Welcome to learn about Github
-This is a test line for Git conflict: main branch
->>>>>>>
-after change
+This is a test line for Git conflict: test branch
